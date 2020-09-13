@@ -1,0 +1,113 @@
+/* CSS Document */
+
+body
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+.vertmenu
+{
+	padding-top:10px;
+	padding-left:10px;
+}
+.vertmenu a
+{
+	text-decoration:none;
+	color:#FF0;
+}
+
+.vertmenu div
+{
+	font-weight:bold;
+	background:#F3E7A9;
+	width:180px;
+}
+
+.menulist li
+{
+	color:#FF0;
+	padding-bottom:10px;
+}
+
+.formtab td:nth-child(1)
+{
+	border-bottom:1px solid #E4CCC0;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+}
+
+.formtab td:nth-child(2)
+{
+	border-bottom:1px solid #E4CCC0;
+	border-top:none;
+	border-right:none;
+	border-left:1px solid #E4CCC0;
+}
+
+.formtab
+{
+	border-top:none;
+	border-left:none;
+	border-right:none;
+}
+
+.success
+{
+	color:#669900;
+	background:#F4FEE7;
+	padding:7px;
+	text-align:left;
+	font-size:14px;
+	font-weight:bold;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.failure
+{
+	color:#FF0000;
+	background:#FFEAEA;
+	padding:7px;
+	text-align:left;
+	font-size:14px;
+	font-weight:bold;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.seltab1
+{
+	border-collapse:collapse;
+	padding:13px 13px 13px 13px;
+	border:1px solid #000;
+}
+.seltab1 th
+{
+	border-collapse:collapse;
+	text-align:center;
+	background:#515230; 
+	color:#FFFFFF;
+	border:1px solid #000;
+
+}
+
+.seltab1 td
+{
+	border-collapse:collapse;
+	border:1px solid #000;
+}
+
+.seltab2
+{
+	border-collapse:collapse;
+	padding:13px 13px 13px 13px;
+}
+
+.seltab2 th
+{
+	border-collapse:collapse;
+	text-align:left;
+	background:#443266; 
+	color:#FFFFFF;
+}
